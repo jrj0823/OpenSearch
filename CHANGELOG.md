@@ -88,6 +88,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Bump `com.google.http-client:google-http-client-gson` from 1.43.2 to 1.43.3 ([#8840](https://github.com/opensearch-project/OpenSearch/pull/8840))
 - OpenJDK Update (July 2023 Patch releases) ([#8868](https://github.com/opensearch-project/OpenSearch/pull/8868)
 - Bump `hadoop` libraries from 3.3.4 to 3.3.6 ([#6995](https://github.com/opensearch-project/OpenSearch/pull/6995))
+- Bump `com.azure:azure-core` from 1.39.0 to 1.41.0 ([#8720](https://github.com/opensearch-project/OpenSearch/pull/8720))
 
 ### Changed
 - Perform aggregation postCollection in ContextIndexSearcher after searching leaves ([#8303](https://github.com/opensearch-project/OpenSearch/pull/8303))
